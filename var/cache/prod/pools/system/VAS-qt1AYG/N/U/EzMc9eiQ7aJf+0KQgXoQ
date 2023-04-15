@@ -1,0 +1,3 @@
+<?php //Plugin%255CRelatedProduct42%255CController%255CAdmin%255CRelatedProductController
+
+return [PHP_INT_MAX, []];

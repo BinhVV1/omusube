@@ -1,0 +1,22 @@
+<?php //Plugin%255CProductReview42%255CController%255CProductReviewController%2523display
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (\Symfony\Component\VarExporter\Internal\Registry::$prototypes['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+    ],
+    null,
+    [
+        'Symfony\\Component\\Routing\\Annotation\\Route' => [
+            'path' => [
+                '/product_review/display',
+            ],
+            'name' => [
+                'product_review_display',
+            ],
+        ],
+    ],
+    [
+        $o[0],
+    ],
+    []
+); }];

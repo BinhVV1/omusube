@@ -1,0 +1,3 @@
+<?php //Plugin%255CApi42%255CController%255CAdmin%255COAuthController
+
+return [PHP_INT_MAX, []];
